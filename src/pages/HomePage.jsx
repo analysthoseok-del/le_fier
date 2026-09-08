@@ -46,19 +46,9 @@ export default function HomePage() {
           <div className="event-grid">
             <article className="event-card">
               <img src="/assets/event-gift.jpg" alt="Signature Gift" />
-              <div className="event-text">
-                <h3>SIGNATURE GIFT<br />르 피에르 시그니처 기프트</h3>
-                <p>SPECIAL GIFT FOR YOU</p>
-                <small>~ 06.30</small>
-              </div>
             </article>
             <article className="event-card">
               <img src="/assets/event-review.jpg" alt="Review Event" />
-              <div className="event-text">
-                <h3>REVIEW EVENT<br />리뷰 작성 시 5,000 P 적립</h3>
-                <p>WRITE A REVIEW</p>
-                <small>~ 06.30</small>
-              </div>
             </article>
           </div>
         </section>
