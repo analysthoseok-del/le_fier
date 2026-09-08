@@ -11,7 +11,7 @@ export const products = [
     number: "01",
     name: "BUBBLE SERUM",
     subtitle: "CAFFEINE SHOT",
-    price: "78,000 KRW",
+    price: "58,000 KRW",
     image: "/assets/bubble-serum.jpg",
   },
   {
