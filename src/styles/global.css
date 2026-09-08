@@ -75,7 +75,7 @@ img{max-width:100%}
 .story-photo img{width:100%;height:100%;object-fit:cover;display:block}
 
 .event-grid{display:grid;grid-template-columns:1fr 1fr;gap:7px;padding-bottom:38px}
-.event-card{position:relative;min-height:128px;overflow:hidden;background:#e8ece4}
+.event-card{position:relative;aspect-ratio:463/128;overflow:hidden;background:#e8ece4}
 .event-card>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .event-text{position:relative;z-index:2;margin-left:53%;min-height:128px;display:flex;flex-direction:column;justify-content:center;color:#333}
 .event-text h3{margin:0;font-size:10px;font-weight:500;letter-spacing:.04em;line-height:1.55}
