@@ -1,4 +1,4 @@
-# LE FIER React Homepage
+# ORU React Homepage
 
 ## Run
 ```bash
