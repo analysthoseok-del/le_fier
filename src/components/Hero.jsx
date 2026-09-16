@@ -13,19 +13,20 @@ export default function Hero() {
 
   return (
     <section className="hero-section">
-      {showVideo ? (
-        <video
-          className="hero-image hero-video"
-          src="/assets/ORU_water_final.mp4"
-          autoPlay
-          muted
-          playsInline
-          loop
-          aria-label="ORU water video"
-        />
-      ) : (
-        <img className="hero-image" src="/assets/hero.jpg" alt="ORU Caffeine Shot serum" />
-      )}
+      <img
+        className={`hero-image hero-media ${showVideo ? "is-hidden" : "is-visible"}`}
+        src="/assets/hero.jpg"
+        alt="ORU Caffeine Shot serum"
+      />
+      <video
+        className={`hero-image hero-media ${showVideo ? "is-visible" : "is-hidden"}`}
+        src="/assets/ORU_water_final.mp4"
+        autoPlay
+        muted
+        playsInline
+        loop
+        aria-label="ORU water video"
+      />
     </section>
   );
 }
