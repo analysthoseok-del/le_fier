@@ -1,4 +1,4 @@
-export default function PageHero({ eyebrow = "LE FIER", title, description }) {
+export default function PageHero({ eyebrow = "ORU", title, description }) {
   return (
     <section className="page-hero">
       <div className="page-hero-inner">

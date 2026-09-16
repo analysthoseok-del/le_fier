@@ -4,7 +4,7 @@ export default function Header({ navigate }) {
   return (
     <>
       <div className="utility-bar">
-        <span>WELCOME TO LE FIER OFFICIAL STORE</span>
+        <span>WELCOME TO ORU OFFICIAL STORE</span>
         <div className="utility-links">
           <span>KOREA (KRW)⌄</span>
           <button onClick={() => navigate("/inquire")}>LOGIN</button>
@@ -19,7 +19,7 @@ export default function Header({ navigate }) {
           ))}
         </nav>
 
-        <button className="brand-logo" onClick={() => navigate("/")}>LE FIER</button>
+        <button className="brand-logo" onClick={() => navigate("/")}>ORU</button>
 
         <div className="header-actions">
           <button aria-label="Search">⌕</button>

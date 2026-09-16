@@ -5,7 +5,7 @@ export default function Footer({ navigate }) {
     <footer className="site-footer">
       <div className="footer-grid">
         <div className="footer-brand">
-          <button className="footer-logo" onClick={() => navigate("/")}>LE FIER</button>
+          <button className="footer-logo" onClick={() => navigate("/")}>ORU</button>
           <div className="social-row">
             <span>◎</span><span>Ｎ</span><span>▶</span>
           </div>
@@ -22,7 +22,7 @@ export default function Footer({ navigate }) {
           </div>
         ))}
       </div>
-      <div className="copyright">LE FIER CO., LTD. ALL RIGHTS RESERVED.</div>
+      <div className="copyright">ORU CO., LTD. ALL RIGHTS RESERVED.</div>
     </footer>
   );
 }

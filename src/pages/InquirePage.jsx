@@ -3,7 +3,7 @@ import PageHero from "../components/PageHero";
 export default function InquirePage() {
   return (
     <>
-      <PageHero eyebrow="CUSTOMER CARE" title="INQUIRE" description="LE FIER 고객 문의 페이지입니다." />
+      <PageHero eyebrow="CUSTOMER CARE" title="INQUIRE" description="ORU 고객 문의 페이지입니다." />
       <section className="simple-page content-wrap">
         <form className="inquire-form">
           <label>NAME<input placeholder="성함을 입력하세요" /></label>

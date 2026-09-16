@@ -30,14 +30,14 @@ export default function HomePage() {
             <span>BRAND STORY</span>
             <h2>A BEAUTY RITUAL<br />THAT REVEALS YOU.</h2>
             <p>
-              르 피에르는 피부 본연의 힘을 믿습니다.<br />
+              ORU는 피부 본연의 힘을 믿습니다.<br />
               자연과 과학의 조화, 정제한 성분과 섬세한 감각으로<br />
               당신만의 빛을 깨우는 리추얼을 만듭니다.
             </p>
-            <a href="#about" className="underline-link">MORE ABOUT LE FIER</a>
+            <a href="#about" className="underline-link">MORE ABOUT ORU</a>
           </div>
           <div className="story-photo">
-            <img src="/assets/brand-story.jpg" alt="LE FIER Brand Story" />
+            <img src="/assets/brand-story.jpg" alt="ORU Brand Story" />
           </div>
         </section>
 

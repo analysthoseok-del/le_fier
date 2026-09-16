@@ -7,7 +7,7 @@ export default function SuitesPage() {
       <section className="simple-page content-wrap">
         <div className="feature-block">
           <h2>PRIVATE BEAUTY SUITES</h2>
-          <p>LE FIER의 프라이빗 리추얼과 한정 컬렉션을 소개하는 페이지로 확장할 수 있습니다.</p>
+          <p>ORU의 프라이빗 리추얼과 한정 컬렉션을 소개하는 페이지로 확장할 수 있습니다.</p>
         </div>
       </section>
     </>

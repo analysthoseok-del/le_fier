@@ -9,7 +9,7 @@ export const products = [
   {
     id: "bubble-serum",
     number: "01",
-    name: "BUBBLE SERUM",
+    name: "ORU",
     subtitle: "CAFFEINE SHOT",
     price: "58,000 KRW",
     image: "/assets/bubble-serum.jpg",
@@ -17,7 +17,7 @@ export const products = [
   {
     id: "eye-cream",
     number: "02",
-    name: "EYE CREAM",
+    name: "ORU",
     subtitle: "REVIVAL LIFT",
     price: "98,000 KRW",
     image: "/assets/eye-cream.jpg",
@@ -25,7 +25,7 @@ export const products = [
   {
     id: "cc-cream",
     number: "03",
-    name: "CC CREAM",
+    name: "ORU",
     subtitle: "TONE UP & PROTECT",
     price: "62,000 KRW",
     image: "/assets/cc-cream.jpg",
@@ -33,9 +33,9 @@ export const products = [
 ];
 
 export const bestSellers = [
-  "Bubble Serum — Vital C Caffeine Shot",
-  "Eye Cream — Revival Lift Treatment",
-  "CC Cream — Tone Up & Protect",
+  "ORU",
+  "ORU",
+  "ORU",
 ];
 
 export const footerGroups = [

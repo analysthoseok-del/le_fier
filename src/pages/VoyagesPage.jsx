@@ -9,7 +9,7 @@ export default function VoyagesPage() {
 
   return (
     <>
-      <PageHero eyebrow="LE FIER COLLECTION" title="VOYAGES" description="LE FIER의 브랜드 리추얼을 탐험하세요. " />
+      <PageHero eyebrow="ORU COLLECTION" title="VOYAGES" description="ORU의 브랜드 리추얼을 탐험하세요. " />
       <section className="content-wrap card-page-grid">
         {cards.map(([number, title, description, image]) => (
           <VoyageCard key={number} number={number} title={title} description={description} image={image} />
