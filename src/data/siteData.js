@@ -12,7 +12,7 @@ export const products = [
     name: "ORU",
     subtitle: "CAFFEINE SHOT",
     price: "58,000 KRW",
-    image: "/assets/bubble-serum.jpg",
+    image: "/assets/bubble-serum.png",
   },
   {
     id: "eye-cream",
@@ -20,7 +20,7 @@ export const products = [
     name: "ORU",
     subtitle: "REVIVAL LIFT",
     price: "98,000 KRW",
-    image: "/assets/eye-cream.jpg",
+    image: "/assets/eye-cream.png",
   },
   {
     id: "cc-cream",
@@ -28,7 +28,7 @@ export const products = [
     name: "ORU",
     subtitle: "TONE UP & PROTECT",
     price: "62,000 KRW",
-    image: "/assets/cc-cream.jpg",
+    image: "/assets/cc-cream.png",
   },
 ];
 

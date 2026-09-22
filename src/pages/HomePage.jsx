@@ -45,7 +45,7 @@ export default function HomePage() {
           <SectionTitle title="EVENT" />
           <div className="event-grid">
             <article className="event-card">
-              <img src="/assets/event-gift.jpg" alt="Signature Gift" />
+              <img src="/assets/event-gift.png" alt="Signature Gift" />
             </article>
             <article className="event-card">
               <img src="/assets/event-review.jpg" alt="Review Event" />

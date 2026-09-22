@@ -15,7 +15,7 @@ export default function Hero() {
     <section className="hero-section">
       <img
         className={`hero-image hero-media ${showVideo ? "is-hidden" : "is-visible"}`}
-        src="/assets/hero.jpg"
+        src="/assets/hero.png"
         alt="ORU Caffeine Shot serum"
       />
       <video
