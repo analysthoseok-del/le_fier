@@ -37,7 +37,7 @@ export default function HomePage() {
             <a href="#about" className="underline-link">MORE ABOUT ORU</a>
           </div>
           <div className="story-photo">
-            <img src="/assets/brand-story.jpg" alt="ORU Brand Story" />
+            <img src="/assets/brand-story.png" alt="ORU Brand Story" />
           </div>
         </section>
 

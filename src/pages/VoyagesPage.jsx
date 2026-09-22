@@ -4,7 +4,7 @@ import VoyageCard from "../components/Voyage Card";
 export default function VoyagesPage() {
   const cards = [
     ["01", "GREEN RITUAL", "Botanical energy and refined skincare.", "/assets/hero.jpg"],
-    ["02", "LUMINOUS CARE", "A bright, quiet approach to daily care.", "/assets/brand-story.jpg"],
+    ["02", "LUMINOUS CARE", "A bright, quiet approach to daily care.", "/assets/brand-story.png"],
   ];
 
   return (
